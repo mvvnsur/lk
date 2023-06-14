@@ -37,6 +37,11 @@ header{
   border-radius: 6px;
 }
 
+.lk-btn button:hover{
+  cursor: pointer;
+  background-color: #212529;;
+}
+
 .lk-blocks{
   display: flex;
   gap: 20px;
