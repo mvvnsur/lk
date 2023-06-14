@@ -92,8 +92,25 @@ header{
   background-color: #37496e;
 }
 
+.last{
+  border-bottom: 1px solid rgb(198, 198, 198);
+  padding-bottom: 30px;
+}
+
 .lk-two-title h2{
   margin: 20px 0;
+}
+
+.lk-two-footer{
+  padding: 10px 0;
+}
+
+.lk-two-footer p{
+  margin: 15px 0;
+}
+
+.first{
+  border-bottom: 1px solid rgb(198, 198, 198);
 }
 
 .lk-three{
@@ -127,7 +144,10 @@ header{
   background-color: #37496e;
 }
 
-
+.lk-btn{
+  padding-top: 80px;
+  padding-bottom: 30px;
+}
 
 @media(max-width: 760px){
   .lk-blocks{
